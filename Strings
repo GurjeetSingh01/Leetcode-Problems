@@ -45,9 +45,6 @@ System.out.println(duplicates);
 
 QUESTION-3: IMPLEMENT STRSTR
 
-
-
-
 class Solution {
     public int strStr(String haystack, String needle) {
     
@@ -59,6 +56,5 @@ class Solution {
     }
   }
 }    
-   
 }
 
