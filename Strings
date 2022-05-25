@@ -148,5 +148,79 @@ class Solution {
     }
 }
 
+QUESTION--9: MINIMUM SLIDING WINDOW
+public static String smallestWindow(String s, String p)
+   {
+       if(s==null || p==null || p.length()==0 || s.length()==0)
+       {
+           return "-1";
+       }
+       
+       String ans="";
+       int anslength=Integer.MAX_VALUE;
+       
+       HashMap<Character,Integer> small= new HashMap<>();
+       
+       for(int i=0;i<p.length();i++)
+       {
+           char ch=p.charAt(i);
+           small.put(ch,small.getOrDefault(ch,0)+1);
+       }
+       
+       HashMap<Character,Integer> big= new HashMap<>();
+       int DesiredMatchCount=p.length();
+       int MatchCount=0;
+       
+       int i=0;
+       int j=0;
+       
+       while(i<s.length())
+       {
+           while(i<s.length() && MatchCount<DesiredMatchCount)
+           {
+               char ch=s.charAt(i);
+               big.put(ch,big.getOrDefault(ch,0)+1);
+               if(big.getOrDefault(ch,0)<=small.getOrDefault(ch,0))
+               {
+                   MatchCount++;
+               }
+               i++;
+           }
+           
+           while(j<i && MatchCount==DesiredMatchCount)
+           {
+               int minlength=i-j;
+               if(minlength<anslength)
+               {
+                   anslength=minlength;
+                   ans=s.substring(j,i);
+               }
+               
+               char ch=s.charAt(j);
+               if (big.get(ch)==1)
+               {
+                   big.remove(ch);
+               }
+               else
+               {
+                   big.put(ch,big.get(ch)-1);
+               }
+               
+               if(big.getOrDefault(ch,0)<small.getOrDefault(ch,0))
+               {
+                   MatchCount--;
+               }
+               j++;
+           }
+       }
+       if(ans=="")
+       {
+           return "-1";
+       }
+       return ans;
+       
+   }
 
+
+QUESTION:10- REVERSE WORDS IN A STRING 
 
