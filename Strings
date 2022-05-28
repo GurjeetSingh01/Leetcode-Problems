@@ -385,3 +385,6 @@ public String hundredHelper(int num) {
 	return nstr;
 }
 }
+
+QUESTION:14 MINIMUM WINDOW SUBSTRING
+
