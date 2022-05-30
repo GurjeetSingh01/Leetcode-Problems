@@ -1,6 +1,5 @@
 QUESTION 1: FIND THE DUPLICATE NUMBER
 
-
 class Solution {
     public int findDuplicate(int[] nums){
         HashMap<Integer, Integer> map = new HashMap<>();
