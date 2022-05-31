@@ -109,7 +109,7 @@ public void moveZeroes(int[] nums) {
     }
 }}    
     
-QUESTION 6: BEST TIME TO BUY AND SELL GOODS
+QUESTION 6: BEST TIME TO BUY AND SELL STOCK
 class Solution {
     public int maxProfit(int[] prices) {
         int lsf = Integer.MAX_VALUE;
