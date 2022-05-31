@@ -143,3 +143,23 @@ class Solution {
       return null;
     }
 }
+
+QUESTION 8: BEST TIME TO BUY AND SELL STOCK II 
+class Solution {
+    public int maxProfit(int[] prices) {
+        int bd = 0; // buy date
+        int sd = 0; // sell date
+        int profit = 0; // overall profit after selling
+        for(int i = 1; i < prices.length; i++){ // run a loop from 1 because on 0th day we buy the stock and after 1 or on 1 we can sell it. and so on
+            if(prices[i] >= prices[i - 1]){ // check if previous selling price is lesser then the current one
+                sd++;
+            }
+            else{ // otherwise, calculate the profit before the drop down
+                profit += prices[sd] - prices[bd];
+                bd = sd = i; // and move to new buy and sell day
+            }
+        }
+        profit += prices[sd] - prices[bd]; // again compare n check it
+        return profit; 
+    }
+}
