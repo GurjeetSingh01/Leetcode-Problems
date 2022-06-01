@@ -193,3 +193,5 @@ class Solution {
 		return count;
     }
 }
+
+QUESTION 10: FIND ALL DUPLICATES IN AN ARRAY
