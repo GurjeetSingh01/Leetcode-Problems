@@ -165,3 +165,31 @@ class Solution {
 }
 
 QUESTION 9: Subarray Sums Divisible by K
+class Solution {
+    public int subarraysDivByK(int[] arr, int k) {
+        int count=0,sum=0;
+		int rem;
+        int n=arr.length;
+		HashMap<Integer,Integer> map=new HashMap<Integer,Integer>();
+		map.put(0, 1);//save rem and its freq
+		for(int i=0;i<n;i++)
+		{
+			sum=sum+arr[i];
+			rem=sum%k;
+			if(rem<0)
+			{
+				rem+=k;
+			}
+			if(map.containsKey(rem))
+			{
+				count=count+map.get(rem);
+				map.put(rem, map.get(rem)+1);
+			}
+			else
+			{
+				map.put(rem, 1);
+			}
+		}
+		return count;
+    }
+}
