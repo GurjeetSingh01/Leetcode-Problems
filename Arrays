@@ -409,3 +409,5 @@ public List<Integer> spiralOrder(int[][] matrix) {
 }
 
 QUESTION 16: WORD SEARCH
+Using DFS + backtracking, before going deep in the grid check whether the current character in the grid matches with the character at index of word.
+
