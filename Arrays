@@ -471,3 +471,5 @@ public class Solution {
        return true;
     }
 }
+
+QUESTION 18: MERGE SORTED ARRAY
