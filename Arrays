@@ -610,7 +610,6 @@ class Solution {
 Question 21: Insert Delete GetRandom O(1) - Duplicates allowed
 
 class RandomizedCollection {
-
 Random r;
 HashMap<Integer , HashSet<Integer>> map;
 ArrayList<Integer> list;
