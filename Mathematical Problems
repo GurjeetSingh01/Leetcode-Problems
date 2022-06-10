@@ -1,3 +1,4 @@
+
 Question 1:  Minimum Moves to Equal Arrays Elements
 
 class Solution {
@@ -75,7 +76,7 @@ return true;
 }
 }
 
-Question 6: Palindrome Number
+Question 6:    Palindrome Number
 class Solution {
     public boolean isPalindrome(int x) {
     if(x<0 || (x!=0 && x%10==0))
@@ -90,7 +91,7 @@ class Solution {
   
 }
     
-Question 7: Missing Number
+Question 7:   Missing Numbe
 class Solution {
 public int missingNumber(int[] nums){
 int sum =0;
@@ -101,3 +102,26 @@ sum += nums[i];
 return n*(n+1)/2 -sum; 
 }}
 
+
+Question 8: Reverse Integer
+class Solution {
+    public int reverse(int x) {
+        int sol = 0; 
+        
+        while (x != 0) {
+            sol += x % 10;
+            int checker = sol;
+            
+            x /= 10;
+            
+            if (x != 0) {
+                sol *= 10;
+                if (sol / 10 != checker) {
+                    return 0;
+                }
+            }
+        }
+        
+        return sol;
+    }
+}
