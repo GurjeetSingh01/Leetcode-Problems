@@ -198,3 +198,21 @@ class Solution {
         return ((p1[0]-p2[0])*(p1[0]-p2[0])) + ((p1[1]-p2[1])*(p1[1]-p2[1]));
     }
 }
+
+
+Question 12: The kth factor of n
+class Solution {
+    public int kthFactor(int n, int k) {
+        
+        int kth = 0; //counter to count kth factor
+        for(int i = 1; i <= n; i++){
+            if(n % i ==  0){
+                kth++;
+                if(kth == k){ //when we reach till kth factor we simply return it
+                    return i;
+                }
+            }
+        }
+        return -1;
+    }
+}
