@@ -172,3 +172,29 @@ class Solution {
         return out;
     }
 }
+
+
+Question 11: Valid Square
+class Solution {
+    public boolean validSquare(int[] p1, int[] p2, int[] p3, int[] p4) {
+        int d1 = -1, d2=-1;
+        int[][] points = {p1, p2, p3, p4};
+        for(int i=0;i<points.length;i++){
+            for(int j=i+1; j<points.length; j++){
+                int dis = getDistance(points[i], points[j]);
+                if(d1==-1){
+                    d1 = dis;
+                }else if(d2==-1 && d1!=dis){
+                    d2 = dis;
+                }else if(d1!=dis && d2!=dis){
+                    return false;
+                }
+            }
+        }
+        return (d1==2*d2 || d2==2*d1) && d2!=-1;
+    }
+    
+    private int getDistance(int[] p1, int[] p2){
+        return ((p1[0]-p2[0])*(p1[0]-p2[0])) + ((p1[1]-p2[1])*(p1[1]-p2[1]));
+    }
+}
