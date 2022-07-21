@@ -1,23 +1,33 @@
+import java.util.Arrays;
+
 class Solution {
-   public int coinChange(int[] coins, int amount) {
-    int[] arrayDp = new int[amount + 1];
-    for(int i = 1; i <= amount; i++){
-        int min = Integer.MAX_VALUE;
-        for(int coin : coins){
-            if(i >= coin){
-                if(arrayDp[i - coin] == -1){
-                    continue;
-                }else{
-                    min = Math.min(min, arrayDp[i-coin] + 1);
+
+    public int coinChange(int[] coins, int amount) {
+        if (amount < 0 || coins.length == 0 || coins == null) {
+            return 0;
+        }
+        int[] dp = new int[amount + 1];
+        Arrays.fill(dp, amount + 1);
+        dp[0] = 0;
+
+        for (int i = 1; i <= amount; i++) {
+            for (int coin : coins) {
+                if (i - coin >= 0) {
+                    dp[i] = Math.min(dp[i], 1 + dp[i - coin]);
                 }
             }
         }
-        if(min == Integer.MAX_VALUE){
-            arrayDp[i] = -1;
-        }else{
-            arrayDp[i] = min;
-        }
+
+        return dp[amount] != amount + 1 ? dp[amount] : -1;
     }
-    return arrayDp[amount];
 }
-}
+
+
+
+
+
+
+
+
+
+
