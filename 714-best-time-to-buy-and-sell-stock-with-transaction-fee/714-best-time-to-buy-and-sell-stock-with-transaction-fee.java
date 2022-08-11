@@ -40,5 +40,5 @@ class Solution {
         }
         
     }
-	//hey if you find this helpful please upvote
+	
 }
