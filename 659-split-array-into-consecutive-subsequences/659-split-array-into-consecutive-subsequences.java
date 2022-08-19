@@ -1,27 +1,33 @@
 class Solution {
-    public boolean isPossible(int[] arr) {
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
-        for(int i=0; i<arr.length; i++){
-            map.put(arr[i], map.getOrDefault(arr[i], 0)+1);
-        }
-        HashMap<Integer, Integer> want = new HashMap<Integer, Integer>();
+    public boolean isPossible(int[] nums) {
         
-        for(int i=0; i<arr.length; i++){
-            if(map.get(arr[i])==0){
-                continue;
+        HashMap<Integer, Integer> frequencyMap = new HashMap<>();
+        HashMap<Integer, Integer> hypotheticalMap = new HashMap<>();
+        
+        for(int i : nums){
+            frequencyMap.put(i, frequencyMap.getOrDefault(i, 0) + 1);
+        }
+        
+        for(int i : nums){
+            
+            int fromFm = frequencyMap.getOrDefault(i, 0);
+            int fromHm = hypotheticalMap.getOrDefault(i, 0);
+            
+            if(fromFm == 0) continue;
+            
+            if(fromHm > 0) {
+                hypotheticalMap.put(i, fromHm - 1);
+                hypotheticalMap.put(i+1, hypotheticalMap.getOrDefault(i + 1, 0) + 1);
+                frequencyMap.put(i, fromFm - 1);
             }
-            if(want.getOrDefault(arr[i],0)>0){
-                map.put(arr[i],map.get(arr[i])-1);
-                want.put(arr[i], want.getOrDefault(arr[i],0)-1);
-                want.put(arr[i]+1, want.getOrDefault(arr[i]+1,0)+1);
-            }
-            else if(map.getOrDefault(arr[i],0)>0 && map.getOrDefault(arr[i]+1,0)>0 && map.getOrDefault(arr[i]+2,0)>0){
-                map.put(arr[i],map.get(arr[i])-1);
-                map.put(arr[i]+1,map.get(arr[i]+1)-1);
-                map.put(arr[i]+2,map.get(arr[i]+2)-1);
+            else if(frequencyMap.getOrDefault(i, 0) > 0 && frequencyMap.getOrDefault(i + 1, 0) > 0 && frequencyMap.getOrDefault(i + 2, 0) > 0) {
+                frequencyMap.put(i, frequencyMap.get(i) - 1);
+                frequencyMap.put(i + 1, frequencyMap.get(i + 1) - 1);
+                frequencyMap.put(i + 2, frequencyMap.get(i + 2) - 1);
+                hypotheticalMap.put(i+3, hypotheticalMap.getOrDefault(i + 3, 0) + 1);
                 
-                want.put(arr[i]+3, want.getOrDefault(arr[i]+3,0)+1);
-            }else{
+            }
+            else {
                 return false;
             }
         }
