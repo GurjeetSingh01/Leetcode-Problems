@@ -35,9 +35,6 @@
 </div>
 
 
-dlkjlsjfs
-;lfjsa
-
-kdjlksjfdkjkdlkljl
+dlkj
 sls
 kjsjdf
