@@ -27,8 +27,3 @@
 </ul>
 </div>
 
-dfsdf
-fdsfdfd
-dfd
-
-dfdd
