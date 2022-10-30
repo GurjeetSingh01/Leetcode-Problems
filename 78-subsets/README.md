@@ -24,8 +24,4 @@
 	<li>All the numbers of&nbsp;<code>nums</code> are <strong>unique</strong>.</li>
 </ul>
 </div>
-dsds
-sdssdsdsd
-adaasdddgeegeddgd
-ssssssdsd
-sssfgef
+
