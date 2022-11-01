@@ -45,11 +45,3 @@ After typing mou, mous and mouse the system suggests ["mouse","mousepad"]
 	<li><code>searchWord</code> consists of lowercase English letters.</li>
 </ul>
 </div>
-
-
-
-sssdge
-
-sdsd
-@gg
-hrfss
