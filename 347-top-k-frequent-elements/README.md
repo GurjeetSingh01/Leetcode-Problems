@@ -21,10 +21,4 @@
 <p><strong>Follow up:</strong> Your algorithm's time complexity must be better than <code>O(n log n)</code>, where n is the array's size.</p>
 </div>
 
-<div>
-FREQUENT ELEMENT
-	</div>
-	k-elements
-	<div>
-	
-dd
+<p><strong> Frequent elements:</strong>></p>
