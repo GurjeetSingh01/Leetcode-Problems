@@ -33,10 +33,4 @@ The maximum total value is 3 + 2 + 5 + 4 + 3 + 2 = 19.
 </ul>
 </div>
 
-dfsasa
-<sdfd>
-	dd
-	ddss
-	<dgd>
-		<dfd>
-			DDgdsssssaaaa
+
