@@ -31,7 +31,3 @@
 	<li><code>1 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
 </div>
-
-<div>
-	sg
-</div>
