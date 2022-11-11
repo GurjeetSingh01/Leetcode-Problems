@@ -34,4 +34,4 @@ Hence [[5,0],[7,0],[5,2],[6,1],[4,4],[7,1]] is the reconstructed queue.
 </ul>
 </div>
 
-cx
+cxcc
