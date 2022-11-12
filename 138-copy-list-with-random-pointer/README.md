@@ -45,8 +45,3 @@
 	<li><code>Node.random</code> is <code>null</code> or is pointing to some node in the linked list.</li>
 </ul>
 </div>
-
-
-
-koj
-okuk
