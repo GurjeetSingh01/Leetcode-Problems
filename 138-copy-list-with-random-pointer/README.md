@@ -49,4 +49,4 @@
 
 
 koj
-ok
+okuk
