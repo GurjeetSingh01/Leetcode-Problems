@@ -34,3 +34,4 @@ The third child gets 1 candy because it satisfies the above two conditions.
 	<li><code>0 &lt;= ratings[i] &lt;= 2 * 10<sup>4</sup></code></li>
 </ul>
 </div>
+kj
