@@ -40,11 +40,4 @@ You don't need to read input or print anything. Your task is to complete the fun
 1 &lt;= A<sub>i</sub> &lt;=10<sup>12</sup></span></p>
  <p></p>
             </div>
-            
-            asssafafs
-            asfsa
-            faaaaDGFSk'
-            lj
-            llool
-            sss
-jjjvvbnbn
+        
