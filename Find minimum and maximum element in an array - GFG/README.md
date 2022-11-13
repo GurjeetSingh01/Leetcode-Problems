@@ -47,4 +47,4 @@ You don't need to read input or print anything. Your task is to complete the fun
             lj
             llool
             sss
-jjjvv
+jjjvvbnbn
