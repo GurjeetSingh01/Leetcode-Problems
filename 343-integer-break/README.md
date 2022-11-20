@@ -24,12 +24,3 @@
 	<li><code>2 &lt;= n &lt;= 58</code></li>
 </ul>
 </div>
-
-
-jg dsget
-sssg
-gsa
-gsss
-hsdd
-ga
-gaa
