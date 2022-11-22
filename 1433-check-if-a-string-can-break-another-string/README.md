@@ -34,22 +34,3 @@
 </ul>
 </div>
 
-
-jug
-lkju
-
-
-
-
-
-jjkk hg
-uu
-hhg
-ytn
-
-jh
-sdnnn
-hj
-tr
-rtr
-hjgh
