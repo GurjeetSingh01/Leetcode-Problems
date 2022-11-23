@@ -27,7 +27,3 @@
 
 <div>
 jgb
-zdd
-a	vvvdd
-vvvvvv
-fgddd
