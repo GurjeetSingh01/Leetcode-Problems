@@ -24,6 +24,3 @@
 	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
 </div>
-
-<div>
-jgb
