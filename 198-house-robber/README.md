@@ -28,14 +28,4 @@ Total amount you can rob = 2 + 9 + 1 = 12.
 </ul>
 </div>
 
-kjh
-gg
-tf
-vbc
-nv
-vbc
-nvvbc
-nvvbc
-nv
-
 
