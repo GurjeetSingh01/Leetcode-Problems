@@ -33,10 +33,3 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 	<li><code>s</code> consists only of printable ASCII characters.</li>
 </ul>
 </div>
-
-gff
-dfdsfs
-sfsd
-fs
-ds
-kksxxs
