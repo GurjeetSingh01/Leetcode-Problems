@@ -38,10 +38,3 @@ You don't need to read or print anything. Your task is to complete the function&
 1 &lt;= nums[i] &lt;= 1000</span></p>
  <p></p>
             </div>
-            
-            nb nb 
-            lkkjhjhnbnb
-            jkjknmm
-            jkh
-            jkj
-jh
