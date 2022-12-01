@@ -22,12 +22,3 @@ class Solution {
     return false;
 }
 }
-
-<div>
-ssd
-dsss
-aa
-aaaad
-adadan
-zxzxxzx
-xz
