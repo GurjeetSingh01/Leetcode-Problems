@@ -44,5 +44,6 @@ qs
 qww
 ko
 lonn
+gg
 mm
 bb
