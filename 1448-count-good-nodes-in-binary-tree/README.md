@@ -37,13 +37,3 @@ Node 3 -&gt; (3,1,3) is the maximum value in the path.</pre>
 	<li>Each node's value is between <code>[-10^4, 10^4]</code>.</li>
 </ul></div>
 
-
-
-ssaa
-qs
-qww
-ko
-lonn
-gg
-mm
-bb
