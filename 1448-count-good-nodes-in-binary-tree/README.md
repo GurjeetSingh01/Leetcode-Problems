@@ -43,3 +43,4 @@ ssaa
 qs
 qww
 ko
+lo
