@@ -43,6 +43,6 @@ ssaa
 qs
 qww
 ko
-lo
+lonn
 mm
 bb
