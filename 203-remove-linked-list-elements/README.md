@@ -33,5 +33,7 @@
 	adding to first one
  	final calling to api	
 	data fetching to previous one
+	available or not 
+	
 	
  
