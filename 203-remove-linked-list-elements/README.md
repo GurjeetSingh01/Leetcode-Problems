@@ -28,14 +28,5 @@
 	<li><code>0 &lt;= val &lt;= 50</code></li>
 </ul>
 </div>
-<div>
-	last root
-	adding to first one
- 	final calling to api	
-	data fetching to previous one
-	available or not 
-	in the existing system if it is there then return false;
-	otherwise proceed further 
-	exist in the previous cache file 
-	automation testing 
+
  
