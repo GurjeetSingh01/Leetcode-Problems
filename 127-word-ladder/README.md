@@ -39,5 +39,5 @@
 
 ss
 MNM
-BNB
+BNBNM
 M NBBNM
