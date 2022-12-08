@@ -41,3 +41,4 @@ ss
 MNM
 BNBNM
 M NBBNM
+VCVC
