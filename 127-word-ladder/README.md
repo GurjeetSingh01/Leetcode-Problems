@@ -40,4 +40,4 @@
 ss
 MNM
 BNB
-M NBB
+M NBBNM
