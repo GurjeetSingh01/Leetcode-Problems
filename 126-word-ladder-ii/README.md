@@ -38,6 +38,3 @@
 	<li>All the words in <code>wordList</code> are <strong>unique</strong>.</li>
 </ul>
 </div>
-nm
-mn
-m,mm,m,m,mn,mn,n
