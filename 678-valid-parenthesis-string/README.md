@@ -30,10 +30,3 @@
 </div>
 
 
-hjmbvvbnb
-k
-g
-bn
-bnb
-khjbmvb
-ddbnbbn
