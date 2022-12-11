@@ -9,9 +9,3 @@ class Solution {
 }
 }
 
-ksjdas
-as
-ss
-aas
-sd
-nm
