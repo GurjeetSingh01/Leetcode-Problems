@@ -25,9 +25,3 @@
 </ul>
 </div>
 
-bnb
-bn
-kjvbvnbn
-.,
-xcxcbnb
-xcx
