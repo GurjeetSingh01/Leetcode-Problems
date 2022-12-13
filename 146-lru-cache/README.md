@@ -44,10 +44,4 @@ lRUCache.get(4);    // return 4
 </div>
 
 
-xx
-xzmn
-nmn
-,m,
-zzzxzx
-nmn
-n,n
+
