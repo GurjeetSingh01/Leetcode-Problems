@@ -39,12 +39,3 @@
 </div>
 
 
-nm
-fd
-jkjk
-mn
-cgc
-bmb
-nmb
-m,m,
-nmnmnm,m
