@@ -40,3 +40,4 @@ The total cost is 6.
 mn
 bbnm
 mmmbn
+mn
