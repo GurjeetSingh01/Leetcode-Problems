@@ -37,10 +37,3 @@ The total cost is 6.
 </ul>
 </div>
 
-mn
-bbnm
-mmmbnm,
-mn,m,
-bb,., m
-m,
-,.,
