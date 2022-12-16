@@ -40,5 +40,5 @@ The total cost is 6.
 mn
 bbnm
 mmmbnm,
-mn
+mn,m,
 bb,., m
