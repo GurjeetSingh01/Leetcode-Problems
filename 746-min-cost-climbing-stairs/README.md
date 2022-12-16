@@ -36,3 +36,5 @@ The total cost is 6.
 	<li><code>0 &lt;= cost[i] &lt;= 999</code></li>
 </ul>
 </div>
+
+mn
