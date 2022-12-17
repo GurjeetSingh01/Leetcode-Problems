@@ -28,13 +28,3 @@
 </ul>
 </div>
 
-fssss
-aaaasssa
-aaa
-sasffs
-22fs
-sssd,asaaghf
-aaaafsfd
-aadd
-,.s
-fs
