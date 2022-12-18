@@ -43,7 +43,7 @@
 
 <pre><strong>Input:</strong> adjList = []
 <strong>Output:</strong> []
-<strong>Explanation:</strong> This an empty graph, it does not have any nodes.
+<strong>Explanation:</strong> This an empty graph, it does not have any nodes.s
 </pre>
 
 <p>&nbsp;</p>
@@ -64,7 +64,7 @@
 
 
 
-
+aad
 
 
 
