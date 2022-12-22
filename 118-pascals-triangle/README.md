@@ -21,11 +21,3 @@
 
 
 
-
-d
-
-ad
-fgdgdsdsf
-d
-adfagfdadfad
-sdfa
