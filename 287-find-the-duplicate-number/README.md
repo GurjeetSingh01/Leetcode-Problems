@@ -35,16 +35,3 @@
 	<li>Can you solve the problem in linear runtime complexity?</li>
 </ul>
 </div>
-
-
-
-gg
-fsfsdfs
-ss@@fs
-ssssfs
-gsfafa
-fsfaffa
-fsfs
-fadfafafaa
-heffaffs
-faf
