@@ -35,15 +35,3 @@ Note that you are allowed to reuse a dictionary word.
 	<li>All the strings of <code>wordDict</code> are <strong>unique</strong>.</li>
 </ul>
 </div>
-
-
-
-
-
-assdf
-fd
-agd
-ad
-fd
-.,
-fafad
