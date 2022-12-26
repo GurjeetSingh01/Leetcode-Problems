@@ -34,14 +34,3 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Can you flatten the tree in-place (with <code>O(1)</code> extra space)?</div>
-
-
-
-
-
-<div>
-fa
-dd
-nmm
-fa
-m,
