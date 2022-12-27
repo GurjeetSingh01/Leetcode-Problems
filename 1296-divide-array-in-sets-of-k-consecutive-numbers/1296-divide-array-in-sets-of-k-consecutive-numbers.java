@@ -36,7 +36,3 @@ class Solution {
 }
 
 
-ad
-fafa,,a
-faf
-kkjaweerwfsdfad
