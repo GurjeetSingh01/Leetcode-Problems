@@ -32,12 +32,3 @@
 
 
 
-ghdgada
-m,n
-,.
-nmn
-m,
-,nb
-mn,
-kjk
-bnb
