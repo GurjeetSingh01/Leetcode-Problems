@@ -41,10 +41,4 @@ We have the maximum performance of the team by selecting engineer 2 (with speed=
 </ul>
 </div>
 
-ad
 
-sada
-hida
-dfsadadad
-adda
-dadda
