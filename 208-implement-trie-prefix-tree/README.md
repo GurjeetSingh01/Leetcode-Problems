@@ -50,7 +50,7 @@ trie.search("app");     // return True
 mnm
 
 mn
-.,.,aaa
+.,.,aaa,m,
 nmnm
 ;jfasmn
 bnb
