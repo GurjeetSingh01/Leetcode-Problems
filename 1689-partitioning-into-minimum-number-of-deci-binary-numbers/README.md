@@ -34,6 +34,3 @@
 
 
 
-m,mm
-nm
-bmbnmn,nmn
