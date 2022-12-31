@@ -54,3 +54,4 @@ trie.search("app");     // return True
 nmnm
 ;jfas
 bnb
+nmns
