@@ -47,13 +47,4 @@ trie.search("app");     // return True
 
 
 
-mnm
 
-mn
-.,.,aaa,m,
-nmnm
-;jfasmn
-bnb
-nmnssas
-,m,mnmnm
-nnm
