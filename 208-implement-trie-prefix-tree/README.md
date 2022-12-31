@@ -50,4 +50,4 @@ trie.search("app");     // return True
 
 
 
-.,.,
+.,.,aaa
