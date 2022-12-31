@@ -36,4 +36,4 @@
 
 m,mm
 nm
-bmbnmn
+bmbnmn,nmn
