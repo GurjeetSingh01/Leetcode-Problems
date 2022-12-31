@@ -52,3 +52,4 @@ trie.search("app");     // return True
 
 .,.,aaa
 nmnm
+;jfas
