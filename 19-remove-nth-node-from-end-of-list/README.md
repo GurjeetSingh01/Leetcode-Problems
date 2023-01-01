@@ -49,5 +49,5 @@ mn
 m,m,
 ,m,
 nmn
-m,n
+m,nm,
 n,n
