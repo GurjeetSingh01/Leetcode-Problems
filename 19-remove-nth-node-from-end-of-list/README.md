@@ -51,4 +51,4 @@ m,m,
 nmn
 m,nm,m,m
 n,n,m,
-m,m,
+m,m,m,m,
