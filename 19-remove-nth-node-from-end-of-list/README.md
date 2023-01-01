@@ -50,3 +50,4 @@ mn
 ,m,
 nmn
 m,n
+n,n
