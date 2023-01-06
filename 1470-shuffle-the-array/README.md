@@ -42,4 +42,4 @@
 nm.m,nmn
 .,.,mm,
 ,m,,m,m,
-m,m,n,m,m
+m,m,n,m,mmn,nmn,
