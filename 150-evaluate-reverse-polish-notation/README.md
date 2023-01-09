@@ -42,13 +42,3 @@
 	<li><code>tokens[i]</code> is either an operator: <code>"+"</code>, <code>"-"</code>, <code>"*"</code>, or <code>"/"</code>, or an integer in the range <code>[-200, 200]</code>.</li>
 </ul>
 </div>
-
-
-,.
-<div>
-..,
-m,gaga
-ga
-,.
-gaddd
-afg
