@@ -41,17 +41,3 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 	<li><code>1 &lt;= extraCandies &lt;= 50</code></li>
 </ul>
 </div>
-
-
-
-
-
-
-
-gsdssgd
-gsdd
-gsdss
-hgdgdsgsdgsd
-gsddgsds
-gsdgsddgd
-gsdgd
