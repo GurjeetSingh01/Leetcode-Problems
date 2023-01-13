@@ -35,15 +35,3 @@
 
 
 
-
-
-
-
-gad
-dgadgdadgad
-dsgdagad
-dgad
-gadgad
-gadd
-gaddgadgda
-gada
