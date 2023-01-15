@@ -38,5 +38,5 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 
 
 
-
+gdadddddged
 dfsas
