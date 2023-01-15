@@ -28,21 +28,3 @@ The substring "BBBB" has the longest repeating letters, which is 4.
 </ul>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-gdadddddged
-dfsas
-gadgdd
-gadgd
-gdgdda
-gadad
-gdad
-gdad
