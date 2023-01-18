@@ -52,3 +52,4 @@ kn,nm.m,m.
 ,m ,
 ,n,nm
 m,n
+nmnm
