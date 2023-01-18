@@ -51,3 +51,4 @@ mnbmnb,,n,mn
 kn,nm.m,m.
 ,m ,
 ,n,nm
+m,n
