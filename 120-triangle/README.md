@@ -38,7 +38,6 @@ The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above)
 
 
 
-
-
+fdfad
 
 fdgsffadf
