@@ -23,18 +23,3 @@
 	<li>All the <code>points</code> are <strong>unique</strong>.</li>
 </ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-n,mnn
-nm,m,m,
-,.m,,
-mnmnm,m,m,m,m,m
-,.,m,m,m,mnnm,n
