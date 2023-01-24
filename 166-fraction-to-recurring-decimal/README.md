@@ -33,12 +33,3 @@
 	<li><code>denominator != 0</code></li>
 </ul>
 </div>
-
-fadfad
-sdsdfddsffadf
-fadfa
-fadffadafd
-fadfaddafad
-dfadafadfad
-fadfa
-fdada
