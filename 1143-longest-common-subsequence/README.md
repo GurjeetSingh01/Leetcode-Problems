@@ -39,19 +39,3 @@
 </ul>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-m,m,m
-nmn,nmnn
-,.,.,.,mnmnm,.,.,m,,.m.fsdfsd
-fadfafadfa
-,m,m,
-fadfa
