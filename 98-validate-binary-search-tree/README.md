@@ -31,23 +31,3 @@
 </ul>
 </div>
 
-
-
-
-
-
-
-
-
-bmmn
-m,mm,m
-mnmnmn
-,m,m,
-,.,.,.,
-m,mmm,mm,
-.,,.,m,m,m,m,m,m
-m,mmnmfnmdfd
-,m,m,,.,.,.
-,mm,m,
-m,m,
-m,m,
