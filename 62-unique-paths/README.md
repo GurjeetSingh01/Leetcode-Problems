@@ -28,19 +28,3 @@
 	<li><code>1 &lt;= m, n &lt;= 100</code></li>
 </ul>
 </div>
-
-n,m,n
-
-
-
-
-
-
-
-
-
-mmnn
-.,.,.,m,m,
-,,.m,.m,.,.mnmnmn
-mbnbmb,nm,m,,m,m,m,,.,m,m
-m,m,m,mm,,m,.,.,, m,m,m,.m,m,.,.,nmnmn
