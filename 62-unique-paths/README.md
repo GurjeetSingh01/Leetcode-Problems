@@ -42,5 +42,5 @@ n,m,n
 mmnn
 .,.,.
 ,,.m,.m,.,.mnmnmn
-mbnbmb,nm,m,
+mbnbmb,nm,m,,m,m,m,
 m,m,m,mm,,m
