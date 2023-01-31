@@ -26,15 +26,3 @@
 </ul>
 </div>
 
-
-
-
-
-
-fad
-fadfa
-fadfaggda
-fasdfafadfa
-gdssgsdfsdfadfa
-fadafadasvsaffadfadfadfafadfad
-dfadfadfadgesdf
