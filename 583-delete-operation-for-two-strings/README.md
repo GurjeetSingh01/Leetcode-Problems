@@ -24,19 +24,3 @@
 	<li><code>word1</code> and <code>word2</code> consist of only lowercase English letters.</li>
 </ul>
 </div>
-
-
-
-
-
-
-
-m,m,nmn
-n,m,,nmm
-mn,mn,nnmnm
-nmnm
-,m,m
-mm,,m,mm,,mjnm
-nm,m,nm,m
-m,,m,m,,,
-nmnmm,m
