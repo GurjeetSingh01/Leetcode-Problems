@@ -36,6 +36,6 @@ n,m,,nmm
 mn,mn,nnmnm
 nmnm
 ,m,m
-mm,,m,mm,
+mm,,m,mm,,mjnm
 nm,m,nm,m
 m,,m,m,,,
