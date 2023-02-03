@@ -19,14 +19,3 @@
 	<li><code>30 &lt;=&nbsp;temperatures[i] &lt;= 100</code></li>
 </ul>
 </div>
-
-sdfa
-fadaffdsfgdsd
-adfa
-fsdf
-dfafadddddddddddddddddd
-fsadf
-m,m,,,,,
-sdadafadfafaddd
-fsdfad
-fadfa
