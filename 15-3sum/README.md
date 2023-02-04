@@ -40,7 +40,7 @@ Notice that the order of the output and the order of the triplets does not matte
 
 sssa
 .m,m
-fdf
+fdfm.,.
 asadfgsdf,,mm
 fdfaa
 fadd
