@@ -31,16 +31,3 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 	<li><code>s</code> consists of English letters, digits, symbols and spaces.</li>
 </ul>
 </div>
-fgsfgs
-
-
-adaf
-
-
-,m,m
-dfada
-afdafd
-
-afada
-fadad
-sfgsadfad
