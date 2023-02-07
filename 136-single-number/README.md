@@ -23,8 +23,3 @@
 </ul>
 </div>
 
-
-dfdf
-d
-dfdfd
-dd
