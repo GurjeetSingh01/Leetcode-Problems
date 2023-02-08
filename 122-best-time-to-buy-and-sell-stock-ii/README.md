@@ -38,6 +38,4 @@ Total profit is 4.
 </ul>
 </div>
 
-adfa
-add
-adaddfadadfadfad
+
