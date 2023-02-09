@@ -36,9 +36,4 @@ It can be proven that there is no longer path that satisfies the conditions.
 
 
 dfafadfa
-dadfafa
-dfadfafafdffafdafdsdfa
-fadafadffdf
-fdfafdfafadfaadfafdaddfghfdg
-gfd
-dffa
+da
