@@ -38,7 +38,7 @@ Some possible constructions "anna" + "elble", "anbna" + "elle", "anellena" + "b"
 fsdfsnmnmn
 
 k;l;lk
-lklkkljkjkkfafdklk
+lklkkljkjkkfaf,.,,.dklk
 ,m,m,,m,mm,m,m
 kjgdkjgf,mnmnmn,m,m,m,m,m
 m,m,m,m,nmnmnmm,m,m,n
