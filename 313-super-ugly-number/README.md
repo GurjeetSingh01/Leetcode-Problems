@@ -31,12 +31,3 @@
 </ul>
 </div>
 
-
-
-fdfafadf
-
-m,m,m
-m,m,njnjsdfsfadf
-,.,.
-m,mm,m,mm,mm,mm
-,.,.m,m,mm,m,mm,mkmmkn
