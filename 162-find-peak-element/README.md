@@ -30,11 +30,3 @@
 </div>
 
 
-
-
-
-fdfadd
-fadfdafafdfa
-sdfadfafadfada
-fadfadadfa
-fadfaadfadafadfafadffadfa
