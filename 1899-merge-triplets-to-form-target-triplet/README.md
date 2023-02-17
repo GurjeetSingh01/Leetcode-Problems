@@ -50,17 +50,3 @@ The target triplet [5,5,5] is now an element of triplets.
 </ul>
 </div>
 
-
-
-
-fdfad
-
-
-
-adfd
-adfadadaddd
-fadfadadfadfadfadafdadd
-hgfdssfadfaddfadafdafda
-fadfafadfa
-fdafd
-adaddddfadfaddddd
