@@ -49,3 +49,17 @@ The target triplet [5,5,5] is now an element of triplets.
 	<li><code>1 &lt;= a<sub>i</sub>, b<sub>i</sub>, c<sub>i</sub>, x, y, z &lt;= 1000</code></li>
 </ul>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+hgfdss
