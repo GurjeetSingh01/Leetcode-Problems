@@ -41,25 +41,3 @@ merging them into one sorted list:
 	<li>The sum of <code>lists[i].length</code> will not exceed <code>10<sup>4</sup></code>.</li>
 </ul>
 </div>
-
-
-
-
-
-
-nmnmn
-.,,.,.
-
-
-nmnmnm
-nmmmn
-n,m,
-,.m.,m,,
-,m,mnmnm
-,/,.m,m,m,m,m,m
-nmnmnm,m,m,m,m,
-mnmnm.m.,.m
-m,m,m,
-m,m,m,m,m,m
-m,m,,m,m,mm,m,m
-m,m,m
