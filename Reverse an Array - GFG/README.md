@@ -31,5 +31,5 @@ For each testcase, in a new line, print the array in reverse order. </span></p>
             
             
             
-         ,mn,mn   
+   mn,nn,      ,mn,mn   
             nmn,m,m,mn,m
