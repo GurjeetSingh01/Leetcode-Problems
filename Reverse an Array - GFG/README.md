@@ -35,3 +35,4 @@ For each testcase, in a new line, print the array in reverse order. </span></p>
             nmn,m,m,mn,mm,m,.
 m,m,.mmm,m,m,.m.,.m,,
 ,m.m,m,m,.,.
+m,.m
