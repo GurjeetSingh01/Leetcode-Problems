@@ -19,16 +19,3 @@
 
 
 
-
-
-
-
-
-adfadfadafdafd
-afadafd
-fadafdadfadfdafd
-adfadfadfadfadffadfadfad
-fadfd
-fdfadfdfadfadfad
-dfadfa
-fadfad
