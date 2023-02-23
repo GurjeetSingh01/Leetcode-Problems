@@ -37,16 +37,3 @@
 </div>
 
 
-
-
-dfa
-
-adfdfdafadfad
-fadfadfadfaadaddddfgd
-adafd
-sfgsf
-sf\gs
-adfad
-adfadfadfad
-adfadf
-fdafd
