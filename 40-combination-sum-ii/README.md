@@ -50,7 +50,4 @@ lknbnadfdadfd
 nbmn,fafdfadfd
 ,mm,madffadfaadfddadfdadfdfd
 nmnmfadfd
-adfadadfad
-adfad
-adfad
-adfa
+adfadadfa
