@@ -44,9 +44,3 @@
 
 
 
-d
-lknbnadfdadfd
-nbmn,fafdfadfd
-,mm,madffadfaadfddadfdadfdfd
-nmnmfadfd
-
