@@ -34,19 +34,3 @@
 	<li><code>s</code> consists of parentheses only <code>'()[]{}'</code>.</li>
 </ul>
 </div>
-
-
-afdfas
-
-afadaadff
-
-adafdadfad
-afdaadfa
-fadfaadfaf
-zcv
-gdgdf
-jllk
-m.,.,
-llklkmml
-m,m,m,m,
-lklk
