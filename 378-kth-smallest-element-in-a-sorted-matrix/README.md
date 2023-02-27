@@ -38,13 +38,3 @@
 </ul>
 </div>
 
-
-
-sefweadfadfdfd
-adfaddfd
-adfadadfddfddfd
-afdfdddfdfdadfad
-dfdfdadfad
-adfdadfad
-dfdfdfdfd
-fadfdd
