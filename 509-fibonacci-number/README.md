@@ -36,9 +36,3 @@ F(n) = F(n - 1) + F(n - 2), for n &gt; 1.
 </ul>
 </div>
 
-
-
-adaadfafdfdfdfdfdffdfd
-adadadaadfdsfsfada
-fsddfddsfsd
-ada
