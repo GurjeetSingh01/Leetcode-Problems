@@ -33,4 +33,4 @@
 
 
 nmnn
-.m..m.,msd,sm
+.m..m.,msd,smnm
