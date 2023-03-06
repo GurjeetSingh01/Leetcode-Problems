@@ -28,13 +28,3 @@
 </div>
 
 
-
-
-
-
-nmnmn
-mnm
-,m,,.,.nm,
-m,m,m,m,nmn
-,.,,mm,,mm
-,.,mmn,nnm
