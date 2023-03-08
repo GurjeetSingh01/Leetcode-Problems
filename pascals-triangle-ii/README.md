@@ -28,6 +28,4 @@
 
 
 mn,m,m
-m,,..,.,m,mmnmn
-mn,mn,m,mmnmn
-mnmnm,.,m,m,,m,
+
