@@ -29,5 +29,5 @@
 
 mn,m,m
 m,,m
-mn,mn,
+mn,mn,m,m
 mnmnm,.,m,m,
