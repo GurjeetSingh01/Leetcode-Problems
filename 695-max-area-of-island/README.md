@@ -31,6 +31,6 @@
 
 
 knn
-m,m
+m,mnmm,
 ,m,
 m,m,m,
