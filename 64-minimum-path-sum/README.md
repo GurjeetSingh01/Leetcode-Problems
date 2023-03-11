@@ -34,5 +34,5 @@
 ,..,
 m,n,m,n,..,
 m,,mm,m,m,m
-m,mm,m
+m,mm,m,m,m
 m,mm,m,m,m
