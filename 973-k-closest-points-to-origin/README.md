@@ -40,3 +40,4 @@ We only want the closest k = 1 points from the origin, so the answer is just [[-
 
 
 fsdfs
+m,m,
