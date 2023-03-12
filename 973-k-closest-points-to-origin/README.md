@@ -33,14 +33,4 @@ We only want the closest k = 1 points from the origin, so the answer is just [[-
 </div>
 
 
-m,m
 
-
-
-
-,.m.,
-fsdfs
-m,m,,.,.
-m,,mm,m,m,m,
-m,m,mm,m,m,m,m,,m,m,m..,fs,.d
-,.,.,m,m,m,m,m.m,m,kjlkjfsfdfd
