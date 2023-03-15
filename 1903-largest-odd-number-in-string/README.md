@@ -33,13 +33,3 @@
 </ul>
 </div>
 
-
-
-
-
-
-mn,
-dfgdfgfddafdfadfgdf
-./dfgdfgddfdf
-,m,mfadfdfdfgfg
-fgdffgdfgdfgd
