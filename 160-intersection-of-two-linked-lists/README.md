@@ -66,6 +66,5 @@ Explanation: The two lists do not intersect, so return null.
 
 adfafdf
 adfdadf
-fdf
-fd
+fdffd
 addddfddfdf
