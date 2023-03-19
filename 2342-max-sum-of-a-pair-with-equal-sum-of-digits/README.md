@@ -30,8 +30,5 @@ So the maximum sum that we can obtain is 54.
 </div>
 
 
-ksjkdfsl
-ad
-daddsddfds
-adffd,..,,.,.
-fsdfs,/..,,.,,..,..,
+ksjk
+fsdfs,/..,
