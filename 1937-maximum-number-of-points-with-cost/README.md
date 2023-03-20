@@ -48,12 +48,3 @@ Your final score is 12 - 1 = 11.
 </ul>
 </div>
 
-
-
-
-fdfd
-fsdfssdffsdf
-fds
-,madffadfsdffsd
-fsdfsfsdffsdf
-fsdfsfsdfsfd
