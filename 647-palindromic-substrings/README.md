@@ -27,15 +27,3 @@
 	<li><code>s</code> consists of lowercase English letters.</li>
 </ul>
 </div>
-
-
-
-n,mm,,.
-.m,m
-
-m,,m,m
-.,.
-,.,.,,.m,mm,,
-.,.m,m,
-.,.
-,.,,.,
