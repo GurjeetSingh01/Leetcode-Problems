@@ -49,7 +49,4 @@ No other selection is valid. Thus, there are 6 total ways.
 
 fsdfs
 .;;,./,.,.
-.,m.,
-.,..,,.
-,..,m,,.,.,,mm.,m
-.,m,m,,m,
+.,m
