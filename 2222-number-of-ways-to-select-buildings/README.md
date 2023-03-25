@@ -50,6 +50,6 @@ No other selection is valid. Thus, there are 6 total ways.
 fsdfs
 .;;,./,.,.
 .,m.,
-.,.
+.,..,,.
 ,..,
 .,
