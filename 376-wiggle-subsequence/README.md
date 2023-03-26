@@ -42,3 +42,13 @@ One is [1, 17, 10, 13, 10, 16, 8] with differences (16, -7, 3, -3, 6, -8).
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> Could you solve this in <code>O(n)</code> time?</p>
 </div>
+
+
+
+
+
+
+
+
+
+,.m
