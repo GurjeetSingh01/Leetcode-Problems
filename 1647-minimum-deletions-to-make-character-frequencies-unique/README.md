@@ -50,3 +50,5 @@ Note that we only care about characters that are still in the string at the end 
 fdsfksjd
 fkdkoiofd\fdf\fdf
 \jkj
+
+kn
