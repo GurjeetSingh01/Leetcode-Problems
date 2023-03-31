@@ -67,5 +67,5 @@ Can you solve the problem in expected time complexity?</span></p>
 nmm,,mnm
 mnmn
 mmn
-nmnmnnm
+nmnmnnmnm
 mnmn
