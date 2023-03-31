@@ -68,5 +68,5 @@ nmm,,mnm
 mnmnnm
 mmnmnmn
 nmnmnnmnm
-mnmn
+mnmnmn
 mmnnmn
