@@ -66,6 +66,6 @@ Can you solve the problem in expected time complexity?</span></p>
             m,m
 nmm,,mnm
 mnmn
-mmn
+mmnmnmn
 nmnmnnmnm
 mnmn
