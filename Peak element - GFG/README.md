@@ -63,5 +63,5 @@ Can you solve the problem in expected time complexity?</span></p>
             
             
             
-            m,
-nmm,,
+            m,m
+nmm,,mnm
