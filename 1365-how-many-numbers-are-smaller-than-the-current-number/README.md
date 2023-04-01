@@ -44,6 +44,6 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 
 /.
 
-,.,.,,.m,mnmnm,m
+,.,.,,.m,mnmnm,mm,m,
 m,mm,mm,m
 m,m,,m,
