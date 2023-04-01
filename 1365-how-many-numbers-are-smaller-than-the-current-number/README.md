@@ -35,18 +35,3 @@ For nums[4]=3 there exist three smaller numbers than it (1, 2 and 2).
 	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
 </div>
-
-
-
-
-
-
-
-/.
-
-,.,.,,.m,mnmnm,,m,mm,m,
-m,mm,mm,m
-m,m,,m,m,m,
-nmnm,m,
-m,m
-nmnmm,m
