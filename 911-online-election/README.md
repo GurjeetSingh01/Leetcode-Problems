@@ -53,7 +53,7 @@ topVotedCandidate.q(8); // return 1
 mm,m
 n,m,m
 m,,
-m.,
+m.,m,..
 m,m,m,m,m,m,,
 m,.,.m.,.
 ,.,m,
