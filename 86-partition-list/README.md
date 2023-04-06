@@ -24,11 +24,3 @@
 	<li><code>-200 &lt;= x &lt;= 200</code></li>
 </ul>
 </div>
-
-
-sfdfsfsdf,m,m
-,.,,m,.,m,m,m,m,m
-nmnm,,m,,m,m,m,m
-,m,m,mm,
-m,m
-m,m
