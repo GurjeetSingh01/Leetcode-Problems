@@ -32,4 +32,4 @@
 
 ,m,,m,m,,m,m,,,m
 .,.mnmm,m,m,,mm,m,m,
-n,m
+n,m,m,m
