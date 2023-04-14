@@ -35,13 +35,3 @@ Window position                Max
 </div>
 
 
-
-
-
-
-
-fsdfs
-sdfsdfadasfsfa
-,.m,,,.fa
-,.fa
-fd
