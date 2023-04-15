@@ -29,5 +29,5 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 
 ,,.,.
 ,.m,m.,,.,
-m,m,m,mm,m.,.m,m
+m,m,m,mm,m.,.m,mm,,
 m,m..,m,,
