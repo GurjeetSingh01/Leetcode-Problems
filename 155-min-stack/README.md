@@ -49,3 +49,4 @@ minStack.getMin(); // return -2
 m,mm,m
 ,.,,m,m
 m,mm,m
+m,m
