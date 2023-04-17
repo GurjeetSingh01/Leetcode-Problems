@@ -39,7 +39,7 @@ As shown below, there are 5 ways you can generate "bag" from S.
 
 
 
-,m,m,m
+,m,m,m,m,m
 m,m,,m,m
 m,m,,m,m,,m,m,
 ,.,.,,m,m
