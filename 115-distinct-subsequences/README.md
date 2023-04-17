@@ -38,10 +38,3 @@ As shown below, there are 5 ways you can generate "bag" from S.
 </div>
 
 
-
-,m,m,m,m,m
-m,m,,m,m
-m,m,,m,m,,m,m.,.,,
-,.,.,,m,m
-,m,m
-m,m
