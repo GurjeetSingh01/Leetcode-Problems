@@ -49,9 +49,3 @@ medianFinder.findMedian(); // return 2.0
 </ul>
 </div>
 
-
-
-
-m,m,m,
-m,m,,m,,m
-m,m,m.m,,m,.,m,,m,m,m,m
