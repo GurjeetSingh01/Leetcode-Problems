@@ -35,11 +35,3 @@
 	<li><code>grid[i][j]</code> is <code>'0'</code> or <code>'1'</code>.</li>
 </ul>
 </div>
-
-m,m,m,mmm,mm,m
-,m
-m,
-m,mnmnm,m
-,m,m
-m,m.,m,m
-m,mm,m
