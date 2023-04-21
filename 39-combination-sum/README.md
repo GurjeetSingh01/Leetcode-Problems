@@ -37,9 +37,3 @@ These are the only two combinations.
 	<li><code>1 &lt;= target &lt;= 500</code></li>
 </ul>
 </div>
-
-
-
-m,m,,m
-,.,m,mm,m
-,m,mm,m,,m,,.,  ,m,m,m,m,m,
