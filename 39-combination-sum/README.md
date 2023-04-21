@@ -42,4 +42,4 @@ These are the only two combinations.
 
 m,m,,m
 ,.,m,mm,m
-,m,mm,m,
+,m,mm,m,,m,
