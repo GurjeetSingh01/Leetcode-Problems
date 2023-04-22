@@ -31,6 +31,6 @@ Choosing set {2,7} is not possible as it will make the new array [3,3,3,3,5,5,5]
 
 
 m,m
-,.,m,
+,.,m,m,m
 m,m
 ,mmm,.m.
