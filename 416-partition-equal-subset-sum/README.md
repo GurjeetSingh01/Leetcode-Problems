@@ -23,15 +23,3 @@
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
 </div>
-
-
-
-
-
-
-
-,mmb,m,
-nm,,
-,m,m
-,m,m
-,m,m
