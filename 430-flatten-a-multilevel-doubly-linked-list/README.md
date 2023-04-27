@@ -72,9 +72,3 @@ After flattening the multilevel linked list it becomes:
 </div>
 
 
-m,m,
-,.,m,m
-,.,
-m,m,
-m,.,m
-mm,,m,
