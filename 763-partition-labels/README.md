@@ -31,8 +31,3 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 </div>
 
 
-
-.,,m,m,
-m,m,.,,m
-m,,m.,.m,m,m,,,
-m,,.,.,,m,m,,m,m,
