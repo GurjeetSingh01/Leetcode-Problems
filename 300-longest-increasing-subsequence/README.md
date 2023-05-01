@@ -34,14 +34,4 @@
 <p><b>Follow up:</b>&nbsp;Can you come up with an algorithm that runs in&nbsp;<code>O(n log(n))</code> time complexity?</p>
 </div>
 
-./.
 
-
-
-
-dffd,.,.
-,.m,mm,m,
-mnmnm,m,m,nmnmm,m,
-m,m,m,m,.,.,,.,.,m,m,
-,.,.
-,m,,.m,,,.
