@@ -22,12 +22,3 @@
 <strong>Follow up:</strong> Could you minimize the total number of operations done?</div>
 
 
-
-
-m,m,
-mn
-nmnm
-,m
-m,mm,m
-,mm,m
-,mmn,m,mm,m
