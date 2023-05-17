@@ -39,3 +39,4 @@ Notice that we cannot include 0 in the subarray since that'll make the product 0
 
 m,m,
 mm,m,mmn,m
+,mm,
