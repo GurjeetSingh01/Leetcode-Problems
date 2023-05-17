@@ -35,11 +35,3 @@ Notice that we cannot include 0 in the subarray since that'll make the product 0
 </ul>
 </div>
 
-
-
-m,m,m,m
-mm,m,mmn,m
-,mm,m,m
-,mm
-,m,m
-,,
