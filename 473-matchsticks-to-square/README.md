@@ -31,7 +31,7 @@ nmn
 m,n,m,
 
 m,m,m,mm,
-m,m
+m,mm,m
 ,m,mnmnm,mm,,m
 ,.,.,m,m
 m,m
