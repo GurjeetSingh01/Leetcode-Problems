@@ -28,7 +28,7 @@
 
 
 nmn
-m,n,
+m,n,m,
 
 m,m,m,mm,
 m,m
