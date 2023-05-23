@@ -36,10 +36,3 @@
 
 
 
-
-
-,m,,
-nmnnm,
-nmnmnnm,m,m,
-m,m,
-nm,m
