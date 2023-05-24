@@ -50,7 +50,3 @@ There are 2 different transformations: "--...-." and "--...--.".
 
 
 
-
-m,m,,m,
-,m,m,m
-m,m,m,m
