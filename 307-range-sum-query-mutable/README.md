@@ -44,5 +44,5 @@ numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 
 
 m,m
-,m,mxcx
+,m,mxcx,m,m
 nmn
