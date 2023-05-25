@@ -43,8 +43,3 @@ numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 </div>
 
 
-m,m
-,m,mxcx,m,m
-nmn
-,m,m,m
-,,m,
