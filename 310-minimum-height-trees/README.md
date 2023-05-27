@@ -32,14 +32,3 @@
 	<li>The given input is <strong>guaranteed</strong> to be a tree and there will be <strong>no repeated</strong> edges.</li>
 </ul>
 </div>
-
-nmnm
-m,m,
-nmnmnmmnm
-,m,,m,
-m,m,
-,m,mm,m,
-nmnm
-m,m,,m,m,m
-m,m,
-m,m,
