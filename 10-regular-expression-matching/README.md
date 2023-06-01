@@ -40,7 +40,3 @@
 	<li>It is guaranteed for each appearance of the character <code>'*'</code>, there will be a previous valid character to match.</li>
 </ul>
 </div>
-
-m,mm,m
-m,m,.,m,m
-,.,m,
