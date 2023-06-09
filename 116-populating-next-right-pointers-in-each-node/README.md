@@ -43,6 +43,3 @@
 </ul>
 </div>
 
-gdfgdfg
-fsdffdsfgfggdfggdfgdf
-gdfg
