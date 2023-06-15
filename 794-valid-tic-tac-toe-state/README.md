@@ -47,7 +47,3 @@
 
 
 
-dsdc
-fsdfs
-csccsccvxvcxcvxccxzccx
-cxcdccx
