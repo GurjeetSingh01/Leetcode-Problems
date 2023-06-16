@@ -34,8 +34,3 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 
 
 
-m,
-,m.,,m,m,
-.,m,mm,mm,,
-lkjm,m,mm,
-m,mm,
