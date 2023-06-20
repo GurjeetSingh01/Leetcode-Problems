@@ -46,7 +46,3 @@
 
 
 
-
-m,m,mnmm,m
-mnnm,m,
-,m,nm,m,m
