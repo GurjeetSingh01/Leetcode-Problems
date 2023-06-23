@@ -45,6 +45,4 @@ public ListNode reverse(ListNode head) {
 
 
 
-m,m,m,m,
-m,mm,m,
-,m,m,m,m,mm,mm,m
+
