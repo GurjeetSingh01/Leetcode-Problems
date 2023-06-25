@@ -51,5 +51,5 @@ Notice that walls are only built on the shared boundary of two different cells.
 m,m,
 
 m,mm,
-
+m,m
 ,.,,,m,m,
