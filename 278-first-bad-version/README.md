@@ -29,3 +29,7 @@ Then 4 is the first bad version.
 	<li><code>1 &lt;= bad &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
 </div>
+
+
+
+,.,.,
