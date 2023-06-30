@@ -28,6 +28,3 @@ T_4 = 1 + 1 + 2 = 4
 	<li>The answer is guaranteed to fit within a 32-bit integer, ie. <code>answer &lt;= 2^31 - 1</code>.</li>
 </ul></div>
 
-
-m,,m
-m,m,m,mm,,m,mm,m,mm,m,m,m
