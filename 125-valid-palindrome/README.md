@@ -31,7 +31,7 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 m,m
 
-,.m.mm,m,.,,m
+,.m.mm,m,.,,mm,m,
 
 <ul>
 	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>5</sup></code></li>
