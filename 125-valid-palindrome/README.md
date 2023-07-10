@@ -30,7 +30,7 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 
 
 m,m,m,mm,m,
-,m,mm,m
+,m,mm,m,.,m,
 ,.m.mm,m,.,,mm,m,
 
 <ul>
