@@ -37,6 +37,3 @@
 </ul>
 </div>
 
-m,mm,m,
-m,mm,,,m,mn,m
-m,mm,m,m,mm,m
