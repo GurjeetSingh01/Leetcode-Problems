@@ -42,10 +42,3 @@
 	<li><code>words[i]</code> only consists of lowercase English letters.</li>
 </ul>
 </div>
-
-
-m,m
-m,mm,m
-dsdfdm,m
-m,mm,m
-m,
