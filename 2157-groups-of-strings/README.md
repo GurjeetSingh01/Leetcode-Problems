@@ -61,6 +61,3 @@ Thus, the size of the largest group is 3.
 </div>
 
 
-
-m,m,m,.,
-mm.,.m,m,.,.
