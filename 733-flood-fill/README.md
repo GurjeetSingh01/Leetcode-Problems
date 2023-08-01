@@ -35,5 +35,4 @@ Note the bottom corner is not colored 2, because it is not 4-directionally conne
 </ul>
 </div>
 
-adfa
-fadf
+
