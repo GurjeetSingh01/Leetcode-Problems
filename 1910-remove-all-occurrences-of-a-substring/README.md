@@ -42,7 +42,3 @@ Now s has no occurrences of "xy".
 </ul>
 </div>
 
-
-fsfds
-fadffadfafadffadf
-fadffadfa
