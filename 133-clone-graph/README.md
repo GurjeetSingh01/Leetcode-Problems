@@ -58,8 +58,3 @@
 </ul>
 </div>
 
-
-
-dfgsdxzx
-asadassasdsds
-dsas
