@@ -37,7 +37,3 @@
 
 
 
-m,.m.,msdsdsds
-xsxscxcx
-dss
-xz
