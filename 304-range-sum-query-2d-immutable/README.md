@@ -45,4 +45,4 @@ numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 
 
 m,m,m,mm,
-,mn,mn,mnm,mm,m
+,mn,mn,mnm,mmm,,m
