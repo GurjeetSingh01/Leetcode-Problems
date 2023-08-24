@@ -33,6 +33,3 @@
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without loops/recursion?</div>
 
-
-,mnmnm,m
-,n,mn,mn,
