@@ -30,5 +30,5 @@
 </ul>
 </div>
 
-nmbm,n
+nmbm,nm,
 n,mm,mm
