@@ -39,4 +39,4 @@ Other original arrays could be [4,3,1] or [3,1,4].
 
 
 
-m.,.
+m.,.n,m,
