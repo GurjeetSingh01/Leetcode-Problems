@@ -47,5 +47,5 @@ The total score is 50 + 15 - 9 + 4 + 42 = 102.
 </div>
 
 
-,.,.m,
+,.,.m,m,
 m,m
