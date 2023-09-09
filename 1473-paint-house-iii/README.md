@@ -54,7 +54,3 @@ Cost of paint the first and last house (10 + 1) = 11.
 	<li><code>1 &lt;= cost[i][j] &lt;= 10<sup>4</sup></code></li>
 </ul>
 </div>
-
-fsf
-m,m,fadfadfsdf
-fad
