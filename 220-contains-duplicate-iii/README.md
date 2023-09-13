@@ -43,5 +43,5 @@ abs(nums[i] - nums[j]) &lt;= valueDiff --&gt; abs(1 - 1) &lt;= 0
 
 
 m,m,
-m,
+m,m,
 m,m,
