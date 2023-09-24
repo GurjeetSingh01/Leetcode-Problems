@@ -30,6 +30,6 @@ The minimum sum can be obtained by the pair [4, 9]: 4 + 9 = 13.
 	<li><code>1000 &lt;= num &lt;= 9999</code></li>
 </ul>
 </div>
-
+fad
 
 uihjgffadfaadf
