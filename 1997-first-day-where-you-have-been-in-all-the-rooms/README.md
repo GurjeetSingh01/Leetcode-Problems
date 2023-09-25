@@ -52,6 +52,4 @@ Day 6 is the first day where you have been in all the rooms.
 </div>
 
 
-hjo
-pioxcddfds
-fadfa
+
