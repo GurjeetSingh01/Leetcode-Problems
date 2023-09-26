@@ -40,7 +40,3 @@ randomizedSet.getRandom(); // Since 2 is the only number in the set, getRandom()
 </div>
 
 
-afda
-adfa
-fadfa
-afd
