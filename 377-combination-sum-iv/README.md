@@ -41,4 +41,4 @@ Note that different sequences are counted as different combinations.
 
 oijhgfdafd
 afdf
-adfa
+adfafad
